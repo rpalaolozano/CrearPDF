@@ -21,7 +21,6 @@ public class CrearPDF {
             p.añadirTexto();
         } catch (Exception e) {
             System.out.println(e);
-            System.out.println("Hola");
         }
     }
 }
