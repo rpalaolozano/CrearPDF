@@ -22,7 +22,6 @@ public class CrearPDF {
         } catch (Exception e) {
             System.out.println(e);
             System.out.println("Hola");
-            System.out.println("Adios");
         }
     }
 }
